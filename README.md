@@ -1,2 +1,2 @@
-# Typescript-Jest
- testes com Jest
+# Base-Typescript
+ estudando conceitos do Typescript
